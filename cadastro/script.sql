@@ -4,7 +4,7 @@ create table usuario (
 	id int primary key auto_increment,
     nome varchar(250) not null,
     email varchar(250) not null,
-    password varchar(250) not null,
+    senha varchar(250) not null,
     cpf char(14) not null
 );
 
