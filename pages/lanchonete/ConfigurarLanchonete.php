@@ -40,7 +40,7 @@
   <script>
     function BuscarPedidos() {
       $.ajax({
-        url: "../../services/BuscaPedidoController.php",
+        url: "../../services/BuscaPedidoLanchoneteController.php",
         type: "GET",
         success: (data) => {
           data = JSON.parse(data)

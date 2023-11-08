@@ -3,6 +3,6 @@ require('./service.php');
 
 $service = new Service();
 
-$pedidos = $service->BuscarPedidos();
+$pedidos = $service->BuscarPedidosLanchonete();
 
 echo json_encode($pedidos);
