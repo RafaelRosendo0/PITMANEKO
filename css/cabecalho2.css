@@ -1,0 +1,53 @@
+#cabecalho {
+  background-color: white;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#logo {
+  font-family: "Junge", serif;
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+}
+
+#liheader {
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  padding: 50px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+#liheader:hover {
+  text-decoration: underline;
+}
+
+#sn {
+  text-decoration: none;
+  color: black;
+}
+
+#imgheader {
+  margin-top: 23px;
+  margin-right: 50px;
+}
+
+#marca1 {
+  text-align: center;
+  margin-top: 130px;
+  font-size: 30px;
+  font-family: "Junge", serif;
+  color: rgb(97, 97, 97);
+}
+
+#marca2 {
+  text-align: center;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: "Junge", serif;
+  color: rgb(128, 128, 128);
+}

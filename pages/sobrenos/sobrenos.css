@@ -1,0 +1,71 @@
+
+
+#sn{
+    text-decoration: none;
+    color: black;
+
+}
+
+#imgheader{
+    margin-top: 23px;
+    margin-right: 50px ;
+}
+
+#divsn{
+    background-color: antiquewhite;
+    height: 500px;
+    margin-bottom: -40px;
+    width: 100%;
+}
+
+#sobrenos{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 70px;
+    margin-left: 30px;
+    font-size: 37px;
+
+    font-family: 'Junge', serif;
+
+}
+
+#txtsn{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 22px;
+    text-indent: 3.5ch;
+    line-height: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+#divc{
+    background-color: rgb(231, 184, 184);
+    width: 100%;
+}
+
+#contato{
+    text-align: center;
+
+    padding-top: 70px;
+    margin-left: 30px;
+    font-size: 37px;
+
+    font-family: 'Junge', serif;
+
+}
+
+#contatos1{
+    display: inline-block;
+    margin-left: 485px;
+  }
+  #contatos2{
+    display: inline-block;
+    margin: 50px;
+    margin-left: 20px;
+  }
+  #contatos3{
+    display: inline-block;
+    margin-left: 20px;
+  }
