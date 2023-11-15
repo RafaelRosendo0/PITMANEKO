@@ -176,7 +176,7 @@ session_start();
         error: (error) => {
           swal.fire({
             title: "Erro",
-            html: data.message,
+            html: error.message,
             icon: "error"
           })
         }
