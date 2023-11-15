@@ -7,7 +7,7 @@ class Service
 
   public function __construct()
   {
-    $this->PDO = new PDO('mysql:host=localhost;dbname=PIT;', 'root', '');
+    $this->PDO = new PDO('mysql:host=54.198.252.33;dbname=PIT;', 'serra', '123');
   }
 
 
